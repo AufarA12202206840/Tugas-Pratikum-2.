@@ -1,0 +1,24 @@
+# Tugas-Pratikum-2.
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Laporan Pratikum 2 Pemrogaman web</title>
+    </head>
+    <body>
+        <H1>ini halaman 1</H1>
+        <a href="halaman2.html">klik untuk menuju halaman 2</a>
+    
+    </body>
+</html>
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Laporan tugas Pratikum 2 Pemrograman web</title>
+    </head>
+    <body>
+        <H1>ini halaman 2</H1>
+        <a href="halaman1.html">klik untuk menuju halaman 2</a>
+    
+    </body>
+</html>
